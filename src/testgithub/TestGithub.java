@@ -7,7 +7,7 @@ package testgithub;
 
 /**
  *
- * @author the1s
+ * @author the1s Xingning 2020-01-20
  */
 public class TestGithub {
 
